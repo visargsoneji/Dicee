@@ -1,0 +1,71 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+.roll {
+  margin-top: 20px;
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+.btn {
+  background: #4ECCA3;
+  background-image: -webkit-linear-gradient(top, #4ECCA3, #37a882);
+  background-image: -moz-linear-gradient(top, #4ECCA3, #37a882);
+  background-image: -ms-linear-gradient(top, #4ECCA3, #37a882);
+  background-image: -o-linear-gradient(top, #4ECCA3, #37a882);
+  background-image: linear-gradient(to bottom, #4ECCA3, #37a882);
+  -webkit-border-radius: 22;
+  -moz-border-radius: 22;
+  border-radius: 22px;
+  font-family: 'Lobster';
+  color: #ffffff;
+  font-size: 30px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #4ECCA3;
+  background-image: -webkit-linear-gradient(top, #4ECCA3, #2a6350);
+  background-image: -moz-linear-gradient(top, #4ECCA3, #2a6350);
+  background-image: -ms-linear-gradient(top, #4ECCA3, #2a6350);
+  background-image: -o-linear-gradient(top, #4ECCA3, #2a6350);
+  background-image: linear-gradient(to bottom, #4ECCA3, #2a6350);
+  text-decoration: none;
+}
