@@ -43,6 +43,16 @@ footer {
 
 }
 
+a:link {
+  color: lightgrey;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #4ECCA3;
+  text-decoration: none;
+}
+
 .btn {
   background: #4ECCA3;
   background-image: -webkit-linear-gradient(top, #4ECCA3, #37a882);
