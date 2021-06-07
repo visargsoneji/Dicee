@@ -1,6 +1,6 @@
 function simulate() {
-    randomNumber1 = Math.floor((Math.random() * 6) + 1);
-    randomNumber2 = Math.floor((Math.random() * 6) + 1);
+    let randomNumber1 = Math.floor((Math.random() * 6) + 1);
+    let randomNumber2 = Math.floor((Math.random() * 6) + 1);
 
     console.log("Random Number1", randomNumber1);
     console.log("Random Number2", randomNumber2);
